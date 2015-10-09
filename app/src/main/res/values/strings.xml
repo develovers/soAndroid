@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Develovers Chat App</string>
+    <string name="welcome">Chat para Develovers</string>
+    <string name="enter_name">Cual es su nombre ?</string>
+    <string name="btn_join">Entrar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title">(Android Chat con Socket.io)</string>
+    <string name="author_name">Herve Muneza</string>
+    <string name="author_url">Charla-taller de Git+AngularJS</string>
+
+</resources>
